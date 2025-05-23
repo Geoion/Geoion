@@ -10,17 +10,20 @@ I love creating—from systems to stories.
 - 🛠 Building cloud-native tools for indie founders  
 - 🤖 Exploring practical use of AI agents in business workflows
 
-## 🧰 Tech Stack
+## 🧰 Dev Stack
 - **Languages:** Python, TypeScript, Go, Objective-C, PHP
 - **Frontend:** React, Tailwind CSS, Next.js
-- **Backend:** FastAPI, Tornado, Gin
+- **Backend:** Sanic, Tornado, Gin
 - **DevOps:** Docker, GitHub Actions, Vercel
-- **Data:**  MongoDB, PostgreSQL, Apache Doris, Superset, SQL, Redis
+- **Middleware:** Kafka, Zookeeper
+- **Data:**  MongoDB, PostgreSQL, Doris, Superset, MariaDB, Redis, ElasticSearch
 
 ## 📫 Let's Connect
 
+- Github: [@Geoion](https://github.com/Geoion/Geoion)
 - Twitter / X: [@Eski_Yin](https://x.com/Eski_Yin)  
 - Email: eski.yin@gmail.com
+
 
 
 <!---
