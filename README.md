@@ -15,7 +15,7 @@ I love creating—from systems to stories.
 - **Frontend:** React, Tailwind CSS, Next.js
 - **Backend:** Sanic, Tornado, Gin
 - **DevOps:** Docker, GitHub Actions, Vercel
-- **Middleware:** Kafka, Zookeeper
+- **Middleware:** Kafka, Zookeeper, Celery
 - **Data:**  MongoDB, PostgreSQL, Doris, Superset, MariaDB, Redis, ElasticSearch
 
 ## 📫 Let's Connect
